@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddPayGrade_EnterRegisteredPayGrade</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebeaf663-276e-49fa-8e35-b9c9070c2011</testCaseGuid>
+</TestCaseEntity>

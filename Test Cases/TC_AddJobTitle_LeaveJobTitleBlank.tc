@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddJobTitle_LeaveJobTitleBlank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cb9270f-d8a8-4d93-9015-d3cfafa23747</testCaseGuid>
+</TestCaseEntity>

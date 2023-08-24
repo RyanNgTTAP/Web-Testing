@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteAJobTitle_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac21346e-6174-4e81-b170-71d8f07c3e25</testCaseGuid>
+</TestCaseEntity>

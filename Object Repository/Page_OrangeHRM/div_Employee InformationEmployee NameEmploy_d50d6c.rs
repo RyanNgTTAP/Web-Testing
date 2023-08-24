@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee InformationEmployee NameEmploy_d50d6c</name>
+   <tag></tag>
+   <elementGuidId>cdbd95dc-a926-4714-8912-8da2907c8b1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91eecdf1-d585-4093-b9a5-e7f1678ccdaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>e98fa334-a1e5-4b89-abfd-53452c656f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameInvalidJob TitleAccount AssistantSub Unit-- Select -- Reset  Search  Add (1) Record FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions0227Ehioze EboAccount AssistantFull-Time ProbationFinanceKevin Mathews</value>
+      <webElementGuid>37334b58-dfe1-4156-a748-1a714e08e384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>f019618e-2940-4aae-9ed7-de87eb162f9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>79ae313a-3349-4e05-b344-9363231c1e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[4]</value>
+      <webElementGuid>bc181a37-a43c-4488-9c3c-889a7d7ddd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>ecaa8850-5994-4a29-a461-f6f1c947be42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameInvalidJob TitleAccount AssistantSub Unit-- Select -- Reset  Search  Add (1) Record FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions0227Ehioze EboAccount AssistantFull-Time ProbationFinanceKevin Mathews' or . = 'Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameInvalidJob TitleAccount AssistantSub Unit-- Select -- Reset  Search  Add (1) Record FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions0227Ehioze EboAccount AssistantFull-Time ProbationFinanceKevin Mathews')]</value>
+      <webElementGuid>50066339-adc8-4022-b803-4e55984b2b0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

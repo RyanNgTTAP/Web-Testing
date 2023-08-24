@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddJobTitle_EnterRegisteredJobTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa224c09-420c-48e1-b521-64cafe157c38</testCaseGuid>
+</TestCaseEntity>

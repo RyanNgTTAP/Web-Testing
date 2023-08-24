@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddJobTitle_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3c95dca-946a-47d9-b387-b81307fc197d</testCaseGuid>
+</TestCaseEntity>

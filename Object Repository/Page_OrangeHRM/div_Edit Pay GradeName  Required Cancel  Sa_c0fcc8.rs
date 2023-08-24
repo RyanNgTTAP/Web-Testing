@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Edit Pay GradeName  Required Cancel  Sa_c0fcc8</name>
+   <tag></tag>
+   <elementGuidId>b810433c-4794-4458-b275-d44b01e6b767</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78d5267d-6b11-4689-bc93-72d199dde4b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>a63b50b9-29e7-491f-be7d-d605fa8d7cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Pay GradeName * Required Cancel  Save Add CurrencyCurrency-- Select --Minimum SalaryMaximum Salary * Required Cancel  Save Currencies Add  (3) Records FoundCurrencyMinimum SalaryMaximum SalaryActionsAfghanistan Afghani1000.005000.00Albanian Lek1000.005000.00Utd. Arab Emir. Dirham1000.005000.00</value>
+      <webElementGuid>8ec9f8b9-ce26-49c0-92a6-1c5acce06dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>9a7699c7-c88c-485e-8fc7-c9867c153515</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>8f143e21-3fde-45b3-96bc-6f596c185fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>39dbd9a8-58c2-40c6-b473-24c2d7b7ef83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[4]</value>
+      <webElementGuid>1d6ae526-71ec-4b37-af15-a8262f8964aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>58a0c0a5-4e0f-4118-9ced-32c688eb2973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edit Pay GradeName * Required Cancel  Save Add CurrencyCurrency-- Select --Minimum SalaryMaximum Salary * Required Cancel  Save Currencies Add  (3) Records FoundCurrencyMinimum SalaryMaximum SalaryActionsAfghanistan Afghani1000.005000.00Albanian Lek1000.005000.00Utd. Arab Emir. Dirham1000.005000.00' or . = 'Edit Pay GradeName * Required Cancel  Save Add CurrencyCurrency-- Select --Minimum SalaryMaximum Salary * Required Cancel  Save Currencies Add  (3) Records FoundCurrencyMinimum SalaryMaximum SalaryActionsAfghanistan Afghani1000.005000.00Albanian Lek1000.005000.00Utd. Arab Emir. Dirham1000.005000.00')]</value>
+      <webElementGuid>52daba18-6995-4e1a-95b2-1d80d2911381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

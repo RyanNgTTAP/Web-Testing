@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PIM_EmployeeList_AddEmployee_Postivie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc721d57-7a6e-492f-a014-abc5d1541832</testCaseGuid>
+</TestCaseEntity>

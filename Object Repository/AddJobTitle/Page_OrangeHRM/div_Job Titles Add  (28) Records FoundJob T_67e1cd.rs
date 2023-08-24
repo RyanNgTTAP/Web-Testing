@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job Titles Add  (28) Records FoundJob T_67e1cd</name>
+   <tag></tag>
+   <elementGuidId>715360bb-4d6b-47b0-b00a-6bb750e16149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81b7f3cb-6754-46c3-a3ca-005f8e949b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>46751bac-133f-494e-9480-b5cb6b46daca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job Titles Add  (28) Records FoundJob TitlesAscendingDescendingJob DescriptionActionsAccount AssistantChief Executive OfficerChief Financial OfficerChief Technical OfficerContent SpecialistCustomer Success ManagerDatabase AdministratorFinance ManagerFinancial AnalystHead of SupportHR AssociateHR ManagerIT ManagerjbajbsjdcbschschwinarendraNetwork AdministratorPayroll AdministratorPre-Sales CoordinatorQA EngineerQA LeadsaiSales RepresentativeSocial Media MarketerSoftware ArchitectSoftware EngineerSupport SpecialistVP - Client ServicesVP - Sales &amp; Marketing</value>
+      <webElementGuid>c76bf4bf-0584-437f-af2d-301cd8a8e9c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>9b48b705-f526-4802-8571-2e025308a8d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>51334b5e-ae92-4698-ac2a-a36b067304d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>87a846e5-1b8d-48a6-aeb8-b566b73a310d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[4]</value>
+      <webElementGuid>e34d191a-0684-41b6-b61c-a707b9d739b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>46319544-10c0-44b0-a012-a945d5faaf8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Job Titles Add  (28) Records FoundJob TitlesAscendingDescendingJob DescriptionActionsAccount AssistantChief Executive OfficerChief Financial OfficerChief Technical OfficerContent SpecialistCustomer Success ManagerDatabase AdministratorFinance ManagerFinancial AnalystHead of SupportHR AssociateHR ManagerIT ManagerjbajbsjdcbschschwinarendraNetwork AdministratorPayroll AdministratorPre-Sales CoordinatorQA EngineerQA LeadsaiSales RepresentativeSocial Media MarketerSoftware ArchitectSoftware EngineerSupport SpecialistVP - Client ServicesVP - Sales &amp; Marketing' or . = 'Job Titles Add  (28) Records FoundJob TitlesAscendingDescendingJob DescriptionActionsAccount AssistantChief Executive OfficerChief Financial OfficerChief Technical OfficerContent SpecialistCustomer Success ManagerDatabase AdministratorFinance ManagerFinancial AnalystHead of SupportHR AssociateHR ManagerIT ManagerjbajbsjdcbschschwinarendraNetwork AdministratorPayroll AdministratorPre-Sales CoordinatorQA EngineerQA LeadsaiSales RepresentativeSocial Media MarketerSoftware ArchitectSoftware EngineerSupport SpecialistVP - Client ServicesVP - Sales &amp; Marketing')]</value>
+      <webElementGuid>79c2b9b7-df87-4f3d-8208-a8c8a2732018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

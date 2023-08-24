@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PIM_EmployeeList_DeleteEmployeeRecord_Postivie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7c1e865-fe24-40e4-bce2-f8f90dd011f0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-AddPayGrade_SalaryMinHigherMax</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92e108b7-343f-41b9-b8f3-5500c5e7ef38</testCaseGuid>
+</TestCaseEntity>

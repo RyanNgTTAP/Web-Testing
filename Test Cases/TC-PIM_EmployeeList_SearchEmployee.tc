@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PIM_EmployeeList_SearchEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>946a88bb-3d7f-4294-ad03-e217a4932dba</testCaseGuid>
+</TestCaseEntity>

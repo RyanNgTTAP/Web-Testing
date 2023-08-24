@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddNewUser_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db31eab1-4cde-49ca-8839-8d5ee72c4bd1</testCaseGuid>
+</TestCaseEntity>

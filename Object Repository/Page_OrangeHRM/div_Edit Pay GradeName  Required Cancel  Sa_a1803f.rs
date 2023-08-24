@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Edit Pay GradeName  Required Cancel  Sa_a1803f</name>
+   <tag></tag>
+   <elementGuidId>adba922d-e3fa-42c7-ae49-5e341d9aa871</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fea5cbfd-7055-4c9e-93c5-ce6df96b9079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>b42e05db-b6fe-4ae3-9361-85bdbc0ab269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Pay GradeName * Required Cancel  Save Add CurrencyCurrencyANG - NL Antillian GuilderMinimum SalaryMaximum Salary * Required Cancel  Save Currencies Add  (3) Records FoundCurrencyMinimum SalaryMaximum SalaryActionsAfghanistan Afghani1000.005000.00Albanian Lek1000.005000.00Utd. Arab Emir. Dirham1000.005000.00</value>
+      <webElementGuid>e688f3ad-919f-4b17-9eb5-72bd6ea8bae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>4b7e0ff1-b0eb-45ee-b13c-5debda5dbd7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>928ba35b-b685-46be-a2b0-b223dc1b2ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>420cc194-7e2b-4795-8c50-a3f824052bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[4]</value>
+      <webElementGuid>580ddb0e-62ab-4c6a-bf2b-e22884b7ef4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>2e9887ba-c8b0-4abf-b134-f2c13d219b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edit Pay GradeName * Required Cancel  Save Add CurrencyCurrencyANG - NL Antillian GuilderMinimum SalaryMaximum Salary * Required Cancel  Save Currencies Add  (3) Records FoundCurrencyMinimum SalaryMaximum SalaryActionsAfghanistan Afghani1000.005000.00Albanian Lek1000.005000.00Utd. Arab Emir. Dirham1000.005000.00' or . = 'Edit Pay GradeName * Required Cancel  Save Add CurrencyCurrencyANG - NL Antillian GuilderMinimum SalaryMaximum Salary * Required Cancel  Save Currencies Add  (3) Records FoundCurrencyMinimum SalaryMaximum SalaryActionsAfghanistan Afghani1000.005000.00Albanian Lek1000.005000.00Utd. Arab Emir. Dirham1000.005000.00')]</value>
+      <webElementGuid>0e895f02-8b8c-4663-87e5-0cd75a5d7d8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

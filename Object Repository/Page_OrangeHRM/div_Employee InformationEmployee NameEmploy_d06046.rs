@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee InformationEmployee NameEmploy_d06046</name>
+   <tag></tag>
+   <elementGuidId>b0a3c68a-43b8-4286-8b1c-49850555cc7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17019221-8357-42e6-ab57-f0e657cd1d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>8e01dd04-e626-4412-ac75-06c623fcf3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameInvalidJob TitleAccount AssistantSub Unit-- Select -- Reset  Search  Add No Records FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions</value>
+      <webElementGuid>3fc258d3-f85e-4385-897c-5a8ad466082f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>1566c730-4e97-44d4-92df-9e07dc5ade4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>13172105-71be-4b92-8588-83e494e801a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[4]</value>
+      <webElementGuid>db2b4213-d94d-4045-b3c1-5a8310887ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>27877d46-8110-49d2-b9a4-ceb02bf3b319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameInvalidJob TitleAccount AssistantSub Unit-- Select -- Reset  Search  Add No Records FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions' or . = 'Employee InformationEmployee NameEmployee IdEmployment Status-- Select --IncludeCurrent Employees OnlySupervisor NameInvalidJob TitleAccount AssistantSub Unit-- Select -- Reset  Search  Add No Records FoundIdAscendingDescendingFirst (&amp; Middle) NameAscendingDescendingLast NameAscendingDescendingJob TitleAscendingDescendingEmployment StatusAscendingDescendingSub UnitAscendingDescendingSupervisorAscendingDescendingActions')]</value>
+      <webElementGuid>b82c2823-230a-4caa-a245-fdb2a497cdbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
