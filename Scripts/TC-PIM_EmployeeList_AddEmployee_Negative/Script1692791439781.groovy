@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('Object Repository/PIM_EmployeeList/Page_OrangeHRM/
 WebUI.click(findTestObject('Object Repository/PIM_EmployeeList/Page_OrangeHRM/div_Create Login Details'))
 
 WebUI.setText(findTestObject('Object Repository/PIM_EmployeeList/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus'), 
-    'TEST1234')
+    'Admin')
 
 WebUI.delay(3)
 
@@ -60,4 +60,6 @@ WebUI.setText(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Pag
     '0351')
 
 WebUI.verifyTextNotPresent('Employee Id already exists', false)
+
+WebUI.closeBrowser()
 
