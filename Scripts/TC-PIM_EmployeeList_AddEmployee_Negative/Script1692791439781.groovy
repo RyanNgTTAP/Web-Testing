@@ -51,6 +51,8 @@ WebUI.setEncryptedText(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_Oran
 
 WebUI.click(findTestObject('Object Repository/PIM_EmployeeList/Page_OrangeHRM/button_Save'))
 
+WebUI.delay(3)
+
 WebUI.clearText(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), 
     FailureHandling.STOP_ON_FAILURE)
 
