@@ -53,3 +53,5 @@ WebUI.delay(3)
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+

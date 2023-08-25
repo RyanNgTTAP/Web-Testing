@@ -53,13 +53,18 @@ WebUI.click(findTestObject('Object Repository/PIM_EmployeeList/Page_OrangeHRM/bu
 
 WebUI.delay(3)
 
-WebUI.clearText(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'))
+
+WebUI.sendKeys(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), 
+    Keys.chord(Keys.CONTROL, 'a'))
+
+WebUI.sendKeys(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), 
+    Keys.chord(Keys.BACK_SPACE))
 
 WebUI.setText(findTestObject('PIM_EmployeeList/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), 
-    '0351')
+    '0320')
 
-WebUI.verifyTextNotPresent('Employee Id already exists', false)
+WebUI.verifyTextPresent('Employee Id already exists', false)
 
 WebUI.closeBrowser()
 
